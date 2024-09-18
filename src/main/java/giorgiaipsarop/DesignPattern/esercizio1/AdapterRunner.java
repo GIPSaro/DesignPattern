@@ -21,7 +21,7 @@ public class AdapterRunner implements CommandLineRunner {
 
         ud.getData(uda);
 
-        System.out.println("Nome completo :" + ud.getNomeCompleto() + ", Eta: " + ud.getEta());
+        System.out.println("Nome completo: " + ud.getNomeCompleto() + ", Eta: " + ud.getEta());
 
     }
 
